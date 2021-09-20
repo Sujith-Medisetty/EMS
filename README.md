@@ -14,12 +14,12 @@ Bootstrap 4
 Log4J
 
 ## Features
-The end user can register and apply for latest job post.
-The Admin has complete access to perform CURD operations.
+- The end user can register and apply for latest job post.
+- The Admin has complete access to perform CURD operations.
 
 **To-do list:**
-Send mails to selected students.
-Optimising the application for all number of users.
+- Send mails to selected students.
+- Optimising the application for all number of users.
 
 ## Getting Started
 - **Front-end part**
